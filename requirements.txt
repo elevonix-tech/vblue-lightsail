@@ -7,7 +7,6 @@ djangorestframework==3.14.0
 idna==3.6
 mysql==0.0.3
 mysql-connector-python==9.1.0
-mysqlclient @ file:///Users/builder/ci_310/mysqlclient_1642534389141/work
 Pillow==10.1.0
 psycopg==3.2.3
 PyMySQL==1.1.1
